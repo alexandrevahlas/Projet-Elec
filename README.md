@@ -1,5 +1,5 @@
 # Projet-Elec
 Projet DIGIWAKE
 
-Membres : VAHLAS Alexandre
+Membres : VAHLAS Alexandre \n
           BOULIER THOMAS
