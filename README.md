@@ -1,4 +1,4 @@
-# Projet-Elec
+# Projet Electronique
 
 Projet DIGIWAKE
 
